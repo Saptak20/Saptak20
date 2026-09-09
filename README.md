@@ -29,7 +29,7 @@
 ```python
 class Saptak:
 
-    role = "Full Stack Developer | Python & AI Engineer"
+    role = "AI-Full Stack Developer | Python & AI Engineer"
     education = "B.Tech CSE — AI & ML"
     university = "GLA University"
 
