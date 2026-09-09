@@ -1,56 +1,198 @@
-<!-- Header Banner -->
-<h1 align="center">Hi 👋, I'm Saptak</h1>
-<h3 align="center">AI • ML | LLM Engineer | Problem Solver</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!-- Typing Animation -->
+<!--                         HEADER                                 -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h1 align="center">
+  Hey, I'm Saptak 👋
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1ABC9C&center=true&vCenter=true&width=500&lines=Building+LLM-powered+systems;RAG+%7C+Agents+%7C+FastAPI+%7C+Docker;Turning+ideas+into+production+AI">
+  <strong>AI/ML Engineer · LLM Systems Builder · Problem Solver</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+models.;RAG+%7C+LLM+Agents+%7C+AI+APIs;Python+%7C+FastAPI+%7C+Docker+%7C+Linux;From+idea+%E2%86%92+architecture+%E2%86%92+deployment" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saptak20">
+    <img src="https://komarev.com/ghpvc/?username=Saptak20&label=PROFILE+VIEWS&color=00ff9c&style=flat-square" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (AI & ML) @ GLA University/ Fellow at NXTWave CCBP 4.0
-- 🤖 Building **RAG pipelines, LLM agents, and AI APIs** that ship to production  
-- ⚡ Fun fact: I don't wait for opportunities — I build them  
+## `> whoami`
+
+```python
+class Saptak:
+
+    role = "AI/ML Engineer"
+    education = "B.Tech CSE — AI & ML"
+    university = "GLA University"
+
+    interests = [
+        "LLM Systems",
+        "RAG",
+        "AI Agents",
+        "Machine Learning",
+        "Backend Engineering",
+        "System Design"
+    ]
+
+    currently_building = "AI systems that actually do something useful"
+
+    philosophy = "Understand → Build → Break → Fix → Ship"
+```
+
+I'm interested in the layer **between AI research and real software** — turning models into systems that can reason, retrieve information, use tools, expose APIs, and survive outside a Jupyter notebook.
+
+Currently exploring:
+
+* 🧠 **LLMs, RAG & Agentic AI**
+* ⚙️ **FastAPI, Docker & backend architecture**
+* 🐧 **Linux & systems**
+* 🗄️ **Databases, APIs & distributed systems**
+* 🧩 **DSA & problem solving**
+* 🤖 **AI/ML engineering**
+
+> *A model sitting in a notebook isn't a product. It's a very expensive `.ipynb`.*
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,docker,mongodb,postgres" /><br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,figma,tensorflow" />
+## `> arsenal`
+
+### Languages & Core
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,mysql,git,github,linux" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## `> projects`
+
+### 🧠 AI Engineering
+
+| Project                    | What I'm building                                                            |
+| -------------------------- | ---------------------------------------------------------------------------- |
+| **AEGIS**                  | AI-powered engineering / coding assistant exploring RAG, agents and tool use |
+| **FinDoc RAG**             | Retrieval-Augmented Generation system for querying financial documents       |
+| **AI Automation Systems**  | Workflow automation using LLMs, agents and orchestration                     |
+| **Smart Plant Monitoring** | IoT system combining sensors, automation and real-world control              |
+
+> More experiments are constantly being sacrificed to the Git commit history.
+
+---
+
+## `> engineering_principles`
+
+```text
+01  Fundamentals > Frameworks
+02  Understanding > Memorization
+03  Systems > Demos
+04  Debugging > Guessing
+05  Shipping > Perfecting
+06  Simple architecture > Unnecessary complexity
+07  Build first → optimize when the bottleneck is real
+```
+
+---
+
+## `> github_activity`
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saptak20&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak20&theme=radical" alt="Streak Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saptak20&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saptak20&hide_border=true&theme=github-dark&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="170"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak20&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saptak20&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" height="170"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## `> contribution_matrix`
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/saptak-mondal/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/SaptakMondal19"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:saptakmondal734@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saptak20&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Food for Thought  
+## `> currently_learning`
+
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  [██████████████████░░░░]  LLM Engineering          │
+│  [███████████████░░░░░░░]  System Design            │
+│  [██████████████░░░░░░░░]  DSA                      │
+│  [████████████████░░░░░░]  Backend Engineering      │
+│  [██████████████░░░░░░░░]  Linux / Systems          │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+---
+
+## `> connect`
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+  <a href="https://www.linkedin.com/in/saptak-mondal/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
+  </a>
+  <a href="https://twitter.com/SaptakMondal19">
+    <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF9C" />
+  </a>
+  <a href="mailto:saptakmondal734@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
+  </a>
 </p>
 
 ---
+
+<p align="center">
+
+```text
+$ git status
+
+On branch main
+Your ideas are ahead of your implementation.
+
+nothing to commit —
+except more things to build.
+```
+
+</p>
+
+<p align="center">
+  <i>Building things. Breaking things. Understanding why they broke.</i>
+</p>
+
+<p align="center">
+  <strong>⚡ Keep building.</strong>
+</p>
