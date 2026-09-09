@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (AI & ML) @ GLA University  
+- 🎓 B.Tech CSE (AI & ML) @ GLA University/ Fellow at NTWave CCBP 4.0
 - 🤖 Building **RAG pipelines, LLM agents, and AI APIs** that ship to production  
 - ⚡ Fun fact: I don't wait for opportunities — I build them  
 
