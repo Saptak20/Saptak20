@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI-Full Stack Developer · Python & AI Engineer</strong>
+  <strong>Full Stack Developer · Python & AI Engineer</strong>
 </p>
 
 <p align="center">
