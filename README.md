@@ -64,31 +64,130 @@ Currently exploring:
 
 ## `> arsenal`
 
-### Languages & Core
+## `> arsenal`
+
+### ⚔️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
-### AI / ML
+---
+
+### 🧠 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### Backend & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,postgres,mongodb,mysql,git,github,linux" />
+<p align="center">
+  <code>Supervised Learning</code>
+  <code>Deep Learning</code>
+  <code>Computer Vision</code>
+  <code>NLP</code>
+  <code>Model Evaluation</code>
+  <code>Feature Engineering</code>
 </p>
 
-### Tools
+---
+
+### 🤖 LLM / Generative AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma" />
+  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Vector%20Search-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=00FF9C" />
+</p>
+
+<p align="center">
+  <code>RAG Pipelines</code>
+  <code>Agentic Workflows</code>
+  <code>Context Engineering</code>
+  <code>LLM Orchestration</code>
+</p>
+
+---
+
+### ⚙️ Backend / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,sqlite" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Async%20Programming-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Database%20Design-0D1117?style=for-the-badge&logoColor=00FF9C" />
+</p>
+
+---
+
+### 🐳 DevOps / Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Containers-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Linux%20Systems-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/API%20Deployment-0D1117?style=for-the-badge&logoColor=00FF9C" />
+</p>
+
+---
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Antigravity-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=00FF9C" />
+</p>
+
+<p align="center">
+  <code>VS Code</code>
+  <code>Antigravity</code>
+  <code>OpenCode</code>
+  <code>GitHub Copilot</code>
+  <code>Ollama</code>
+  <code>n8n</code>
+  <code>Figma</code>
+</p>
+
+---
+
+### 🔬 Currently Exploring
+
+<p align="center">
+  <code>Agentic AI</code> •
+  <code>RAG</code> •
+  <code>MCP</code> •
+  <code>LLM Systems</code> •
+  <code>System Design</code> •
+  <code>AI Infrastructure</code>
 </p>
 
 ---
