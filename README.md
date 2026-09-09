@@ -47,22 +47,20 @@ class Saptak:
     philosophy = "Understand → Build → Break → Fix → Ship"
 ```
 
-I'm interested in the layer **between AI research and real software** — turning models into systems that can reason, retrieve information, use tools, expose APIs, and survive outside a Jupyter notebook.
+I'm interested in the layer **between AI research and real software** — turning models into systems that can retrieve information, reason over context, use tools, expose APIs, and actually work outside a Jupyter notebook.
 
 Currently exploring:
 
 * 🧠 **LLMs, RAG & Agentic AI**
 * ⚙️ **FastAPI, Docker & backend architecture**
 * 🐧 **Linux & systems**
-* 🗄️ **Databases, APIs & distributed systems**
+* 🗄️ **Databases, APIs & system design**
 * 🧩 **DSA & problem solving**
 * 🤖 **AI/ML engineering**
 
 > *A model sitting in a notebook isn't a product. It's a very expensive `.ipynb`.*
 
 ---
-
-## `> arsenal`
 
 ## `> arsenal`
 
