@@ -15,7 +15,6 @@
 - 🎓 B.Tech CSE (AI & ML) @ GLA University  
 - 🤖 Building **RAG pipelines, LLM agents, and AI APIs** that ship to production  
 - 🔥 Currently: **RAG Study Buddy · AI Misinformation Detector · AI Mock Interviewer**  
-- 🏆 4x National Hackathon — SIH 2025, MumbaiHacks, Techkriti IIT-K, Hack & Viz  
 - ⚡ Fun fact: I don't wait for opportunities — I build them  
 
 ---
