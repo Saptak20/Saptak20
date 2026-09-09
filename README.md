@@ -9,11 +9,11 @@
 </h1>
 
 <p align="center">
-  <strong>AI/ML Engineer · LLM Systems Builder · Problem Solver</strong>
+  <strong>Full Stack Developer · Python & AI Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+models.;RAG+%7C+LLM+Agents+%7C+AI+APIs;Python+%7C+FastAPI+%7C+Docker+%7C+Linux;From+idea+%E2%86%92+architecture+%E2%86%92+deployment" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=650&lines=Building+systems%2C+not+just+models.;RAG+%7C+Agentic+AI+%7C+Full+Stack;Python+%7C+FastAPI+%7C+React+%7C+Docker;From+idea+%E2%86%92+architecture+%E2%86%92+deployment" />
 </p>
 
 <p align="center">
@@ -29,34 +29,34 @@
 ```python
 class Saptak:
 
-    role = "AI/ML Engineer"
+    role = "Full Stack Developer | Python & AI Engineer"
     education = "B.Tech CSE — AI & ML"
     university = "GLA University"
 
     interests = [
+        "AI Engineering",
         "LLM Systems",
         "RAG",
-        "AI Agents",
-        "Machine Learning",
-        "Backend Engineering",
+        "Agentic AI",
+        "Full Stack Development",
         "System Design"
     ]
 
-    currently_building = "AI systems that actually do something useful"
+    currently_building = "AI-powered systems and full-stack applications"
 
     philosophy = "Understand → Build → Break → Fix → Ship"
 ```
 
-I'm interested in the layer **between AI research and real software** — turning models into systems that can retrieve information, reason over context, use tools, expose APIs, and actually work outside a Jupyter notebook.
+I enjoy building at the intersection of **AI and software engineering** — from retrieval pipelines and AI APIs to full-stack applications and real-time systems.
 
-Currently exploring:
+Currently focused on:
 
-* 🧠 **LLMs, RAG & Agentic AI**
-* ⚙️ **FastAPI, Docker & backend architecture**
-* 🐧 **Linux & systems**
-* 🗄️ **Databases, APIs & system design**
+* 🧠 **RAG & Agentic AI**
+* ⚙️ **Python, FastAPI & backend systems**
+* 🌐 **React, Next.js & full-stack development**
+* 🗄️ **Databases & retrieval systems**
+* 🐳 **Docker, cloud deployment & DevOps**
 * 🧩 **DSA & problem solving**
-* 🤖 **AI/ML engineering**
 
 > *A model sitting in a notebook isn't a product. It's a very expensive `.ipynb`.*
 
@@ -67,7 +67,7 @@ Currently exploring:
 ### ⚔️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
 </p>
 
 ---
@@ -75,7 +75,7 @@ Currently exploring:
 ### 🧠 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 <p>
@@ -87,83 +87,77 @@ Currently exploring:
 </p>
 
 <p align="center">
-  <code>Supervised Learning</code>
+  <code>Machine Learning</code>
   <code>Deep Learning</code>
   <code>Computer Vision</code>
   <code>NLP</code>
   <code>Model Evaluation</code>
-  <code>Feature Engineering</code>
 </p>
 
 ---
 
 ### 🤖 LLM / Generative AI
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-00A67E?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-6E40C9?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Vector%20Search-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Tool%20Calling-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logoColor=00FF9C" />
+<p align="center">
+  <code>RAG</code>
+  <code>Agentic AI</code>
+  <code>LangChain</code>
+  <code>Gemini API</code>
+  <code>Groq API</code>
+  <code>Hugging Face</code>
 </p>
 
 <p align="center">
-  <code>RAG Pipelines</code>
-  <code>Agentic Workflows</code>
-  <code>Context Engineering</code>
-  <code>LLM Orchestration</code>
+  <code>Embeddings</code>
+  <code>Vector Search</code>
+  <code>FAISS</code>
+  <code>ChromaDB</code>
+  <code>BM25</code>
+  <code>Cross-Encoder Reranking</code>
 </p>
 
 ---
 
-### ⚙️ Backend / Data
+### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,sqlite" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Async%20Programming-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Database%20Design-0D1117?style=for-the-badge&logoColor=00FF9C" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
 ---
 
-### 🐳 DevOps / Systems
+### ⚙️ Backend & Data
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql,sqlite" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Containers-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Linux%20Systems-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/API%20Deployment-0D1117?style=for-the-badge&logoColor=00FF9C" />
+<p align="center">
+  <code>REST APIs</code>
+  <code>JWT Authentication</code>
+  <code>SQL</code>
+  <code>Database Design</code>
+  <code>Real-time Systems</code>
 </p>
 
 ---
 
-### 🛠️ Developer Tools
+### 🐳 Cloud / DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,bitbucket,vercel" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/OpenCode-0D1117?style=for-the-badge&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logo=ollama&logoColor=00FF9C" />
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge&logo=n8n&logoColor=00FF9C" />
+<p align="center">
+  <code>Render</code>
+  <code>Docker</code>
+  <code>CI/CD</code>
+  <code>Cloud Deployment</code>
 </p>
+
+---
+
+### 🛠️ Developer Tools & AI Tools
 
 <p align="center">
   <code>VS Code</code>
@@ -172,36 +166,56 @@ Currently exploring:
   <code>GitHub Copilot</code>
   <code>Ollama</code>
   <code>n8n</code>
+  <code>Make.com</code>
   <code>Figma</code>
-</p>
-
----
-
-### 🔬 Currently Exploring
-
-<p align="center">
-  <code>Agentic AI</code> •
-  <code>RAG</code> •
-  <code>MCP</code> •
-  <code>LLM Systems</code> •
-  <code>System Design</code> •
-  <code>AI Infrastructure</code>
 </p>
 
 ---
 
 ## `> projects`
 
-### 🧠 AI Engineering
+### 🧠 Agentic RAG
 
-| Project                    | What I'm building                                                            |
-| -------------------------- | ---------------------------------------------------------------------------- |
-| **AEGIS**                  | AI-powered engineering / coding assistant exploring RAG, agents and tool use |
-| **FinDoc RAG**             | Retrieval-Augmented Generation system for querying financial documents       |
-| **AI Automation Systems**  | Workflow automation using LLMs, agents and orchestration                     |
-| **Smart Plant Monitoring** | IoT system combining sensors, automation and real-world control              |
+**AI-Powered Document Intelligence Platform**
 
-> More experiments are constantly being sacrificed to the Git commit history.
+`Next.js` · `FastAPI` · `Gemini API` · `ChromaDB` · `RAG` · `TypeScript` · `Python`
+
+A full-stack document intelligence platform for uploading and interacting with PDF, TXT and CSV files through context-grounded AI conversations.
+
+* Built an end-to-end document ingestion and retrieval pipeline.
+* Added source-grounded responses and retrieved-context visualization.
+* Integrated Gemini for document-aware AI conversations.
+* Deployed frontend and backend using **Vercel + Render**.
+
+---
+
+### 📊 FinDoc-RAG
+
+**Production-Grade Financial Document Intelligence**
+
+`Python` · `FastAPI` · `React` · `PostgreSQL` · `FAISS` · `BM25` · `Docker` · `Ollama`
+
+A financial document RAG system focused on **retrieval quality, explainability and production-oriented backend engineering**.
+
+* Combined dense and sparse retrieval using **FAISS + BM25**.
+* Used **Reciprocal Rank Fusion and Cross-Encoder reranking** to improve retrieval.
+* Implemented page-level source citations and document ingestion.
+* Added API security, rate limiting, health monitoring and automated tests.
+
+---
+
+### ☁️ Collaborative Task Manager
+
+**Real-Time Cloud-Based Team Workspace**
+
+`Next.js` · `Express` · `Socket.IO` · `PostgreSQL` · `AWS`
+
+A collaborative task management application designed around real-time team workflows.
+
+* Built team workspaces, task assignment, priorities and live activity feeds.
+* Implemented JWT authentication and REST APIs.
+* Added real-time updates using **Socket.IO room-based broadcasting**.
+* Configured deployment and CI workflows for automated builds and database migrations.
 
 ---
 
@@ -216,6 +230,22 @@ Currently exploring:
 06  Simple architecture > Unnecessary complexity
 07  Build first → optimize when the bottleneck is real
 ```
+
+---
+
+## `> problem_solving`
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/LeetCode-300%2B-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C" />
+
+  <img src="https://img.shields.io/badge/Codeforces-1200%2B-0D1117?style=for-the-badge&logo=codeforces&logoColor=00FF9C" />
+
+</p>
+
+<p align="center">
+  Java · Arrays · Sliding Window · Trees · Graphs · Dynamic Programming
+</p>
 
 ---
 
@@ -246,10 +276,10 @@ Currently exploring:
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
 │  [██████████████████░░░░]  LLM Engineering          │
-│  [███████████████░░░░░░░]  System Design            │
+│  [████████████████░░░░░░]  System Design            │
 │  [██████████████░░░░░░░░]  DSA                      │
 │  [████████████████░░░░░░]  Backend Engineering      │
-│  [██████████████░░░░░░░░]  Linux / Systems          │
+│  [██████████████░░░░░░░░]  Cloud & DevOps           │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
@@ -262,9 +292,11 @@ Currently exploring:
   <a href="https://www.linkedin.com/in/saptak-mondal/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" />
   </a>
+
   <a href="https://twitter.com/SaptakMondal19">
     <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF9C" />
   </a>
+
   <a href="mailto:saptakmondal734@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
   </a>
